@@ -582,4 +582,8 @@ width: 130px;
     .home h1{
         font-size: 30px;
     }
+    .navbar button{
+        background-color: #bf925bde;
+    }
+    
 }
